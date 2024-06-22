@@ -1,12 +1,13 @@
 # Rock Paper Scissors Game
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Screenshots/game.png)
 
 Welcome to the Rock Paper Scissors Game! This is a fun and interactive web-based game where you can play the classic game of Rock Paper Scissors against the computer. The game is built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -22,6 +23,24 @@ Welcome to the Rock Paper Scissors Game! This is a fun and interactive web-based
 - Play Again functionality to restart the game
 - Attractive visuals and animations
 
+## Screenshots
+
+### Game Interface
+
+![Game Interface](screenshots/game.png)
+
+### Win Scenario
+
+![Win Scenario](screenshots/win.png)
+
+### Loss Scenario
+
+![Loss Scenario](screenshots/loss.png)
+
+### Draw Scenario
+
+![Draw Scenario](screenshots/draw.png)
+
 ## Installation
 
 1. Clone the repository:
@@ -36,7 +55,7 @@ Welcome to the Rock Paper Scissors Game! This is a fun and interactive web-based
    cd rock-paper-scissors
    ```
 
-3. Open the `index.html` file in your web browser:
+3. Open the `rock_paper_scissors.html` file in your web browser:
 
    ```bash
    open rock_paper_scissors.html
@@ -58,7 +77,11 @@ rock-paper-scissors/
 ├── rock.png # Image file for Rock hand
 ├── paper.png # Image file for Paper hand
 ├── scissor.png # Image file for Scissor hand
-├── screenshot.png # Screenshot of the game (used in README)
+├── screenshots/ # Directory for screenshots
+│ ├── game.png # Screenshot of the game interface
+│ ├── win.png # Screenshot of the win scenario
+│ ├── loss.png # Screenshot of the loss scenario
+│ ├── draw.png # Screenshot of the draw scenario
 └── README.md # This file
 
 ## Contributing
@@ -71,10 +94,6 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 4. Commit your changes (`git commit -m 'Add some feature'`)
 5. Push to the branch (`git push origin feature-branch`)
 6. Open a pull request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
