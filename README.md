@@ -7,7 +7,7 @@ Welcome to the Rock Paper Scissors Game! This is a fun and interactive web-based
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Screenshots](#Screenshotss)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -27,19 +27,19 @@ Welcome to the Rock Paper Scissors Game! This is a fun and interactive web-based
 
 ### Game Interface
 
-![Game Interface](screenshots/game.png)
+![Game Interface](Screenshots/game.png)
 
 ### Win Scenario
 
-![Win Scenario](screenshots/win.png)
+![Win Scenario](Screenshots/win.png)
 
 ### Loss Scenario
 
-![Loss Scenario](screenshots/loss.png)
+![Loss Scenario](Screenshots/loss.png)
 
 ### Draw Scenario
 
-![Draw Scenario](screenshots/draw.png)
+![Draw Scenario](Screenshots/draw.png)
 
 ## Installation
 
@@ -70,19 +70,19 @@ Welcome to the Rock Paper Scissors Game! This is a fun and interactive web-based
 
 ## Project Structure
 
-rock-paper-scissors/
-├── rock_paper_scissors.html # HTML file for the game interface
-├── style.css # CSS file for styling the game
-├── script.js # JavaScript file for game logic
-├── rock.png # Image file for Rock hand
-├── paper.png # Image file for Paper hand
-├── scissor.png # Image file for Scissor hand
-├── screenshots/ # Directory for screenshots
-│ ├── game.png # Screenshot of the game interface
-│ ├── win.png # Screenshot of the win scenario
-│ ├── loss.png # Screenshot of the loss scenario
-│ ├── draw.png # Screenshot of the draw scenario
-└── README.md # This file
+rock-paper-scissors/<br>
+├── rock_paper_scissors.html # HTML file for the game interface<br>
+├── style.css # CSS file for styling the game<br>
+├── script.js # JavaScript file for game logic<br>
+├── rock.png # Image file for Rock hand<br>
+├── paper.png # Image file for Paper hand<br>
+├── scissor.png # Image file for Scissor hand<br>
+├── Screenshots/ # Directory for screenshots<br>
+│ ├── game.png # Screenshot of the game interface<br>
+│ ├── win.png # Screenshot of the win scenario<br>
+│ ├── loss.png # Screenshot of the loss scenario<br>
+│ ├── draw.png # Screenshot of the draw scenario<br>
+└── README.md # This file<br>
 
 ## Contributing
 
